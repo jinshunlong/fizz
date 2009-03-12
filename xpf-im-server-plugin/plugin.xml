@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <!-- Main plugin class  这里是最重要滴-->
+    <class>com.runes.xpf.im.server.plugin.XpfPlugin</class>
+
+    <!-- Plugin meta-data -->
+    <name>XpfPlugin</name>
+    <description>This is the xpf plugin.</description>
+    <author>shunlongjin</author>
+
+    <version>1.0</version>
+    <date>16/01/2009</date>
+    <url>http://localhost:9001/openfire/plugins.jsp</url>
+    <minServerVersion>3.4.1</minServerVersion>
+    <licenseType>gpl</licenseType>
+
+    <!-- Admin console entries -->
+    <adminconsole>
+        <!-- More on this below -->
+    </adminconsole>
+</plugin>
